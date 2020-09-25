@@ -1,2 +1,2 @@
 # devpartners
-devpartners project and test assessments
+devpartners personal test projects and test assessments
